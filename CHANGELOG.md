@@ -9,3 +9,9 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 **MAJOR** will be incremented when a new type of **Module** is introduced that causes incompatibility with the previous version.
 **MINOR** will be incremented when one or more **new functionalities are added to the application**.
 **PATCH** will be incremented when a **fix** is implemented.
+
+## [0.1.0] - 07-09-2024
+### [ADD]
+* [FEAT-MATUFLEX-01](https://trello.com/c/fCtwpVwQ/1-1-estructura-base)
+- Estructura base del proyecto.
+- Integracion de biblioteca css flowbite.
