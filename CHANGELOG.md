@@ -21,4 +21,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 - CSS global creado.
 - Fuentes de texto.
 - Logotipo e imagenes.
-- componente nuevo base "Productos"
+- Nuevo componente base "Productos"
+
+## [0.3.0] - 23-09-2024
+### [ADD]
+- [FEAT-MATUFLEX-02](https://trello.com/c/9Czk7zrv/2-2-navbar)
