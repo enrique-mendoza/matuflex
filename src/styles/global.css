@@ -1,0 +1,83 @@
+@font-face {
+    font-family: 'Work Sans';
+    src: url('../../public/fonts/WorkSans-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+	font-family: 'Work Sans';
+	src: url('../../public/fonts/WorkSans-SemiBold.ttf') format('truetype');
+	font-weight: 600;
+	font-style: normal;
+}
+@font-face {
+    font-family: 'Work Sans';
+    src: url('../../public/fonts/WorkSans-SemiBoldItalic.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+}
+body {
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 400;
+}
+
+/* Tipos de fuentes */
+.sans-semibold {
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 600;
+    font-style: normal;
+}
+.sans-semibold-italic {
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 600;
+    font-style: italic;
+}
+
+.selected {
+    border-bottom: 2px solid white !important; 
+}
+
+/* Colores de fondo */
+.bg-blanco{
+	background-color: #f1f1f1;
+}
+.bg-azul-1{
+	background-color: #8d9ac4;
+}
+.bg-azul-2{
+	background-color: #1a42a7;
+}
+.bg-azul-3{
+	background-color: #092059;
+}
+.bg-negro{
+	background-color: #272727;
+}
+
+/* Colores de texto */
+.txt-blanco{
+	color: #f1f1f1;
+}
+.txt-azul-1{
+	color: #8d9ac4;
+}
+.txt-azul-2{
+	color: #1a42a7;
+}
+.txt-azul-3{
+	color: #092059;
+}
+.txt-negro{
+	color: #272727;
+}
+
+/* Tamaños de texto */
+.txt-nav{
+	font-size: 20px;
+}
+.txt-tittle{
+	font-size: 45px;
+}
+.txt-desc{
+	font-size: 15px;
+}
