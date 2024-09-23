@@ -15,3 +15,14 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 * [FEAT-MATUFLEX-01](https://trello.com/c/fCtwpVwQ/1-1-estructura-base)
 - Estructura base del proyecto.
 - Integracion de biblioteca css flowbite.
+
+## [0.2.0] - 23-09-2024
+### [ADD]
+- CSS global creado.
+- Fuentes de texto.
+- Logotipo e imagenes.
+- Nuevo componente base "Productos"
+
+## [0.3.0] - 23-09-2024
+### [ADD]
+- [FEAT-MATUFLEX-02](https://trello.com/c/9Czk7zrv/2-2-navbar)
