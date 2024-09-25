@@ -30,3 +30,11 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 ## [0.4.0] - 23-09-2024
 ### [ADD]
 - [FEAT-MATUFLEX-04](https://trello.com/c/KM0jQi9l/4-4-quienes-somos)
+
+## [0.5.0] - 25-09-2024
+### [ADD]
+- [FEAT-MATUFLEX-06](https://trello.com/c/tpwaf6m2/5-6-servicios)
+- Fuente regular italica.
+- Navbar ajuste de responsividad.
+- Renombre de iamgen nosotros.jpg > soldador.jpg.
+- Imagenes.

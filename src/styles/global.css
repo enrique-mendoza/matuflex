@@ -16,11 +16,18 @@
     font-weight: 600;
     font-style: italic;
 }
+@font-face {
+    font-family: 'Work Sans';
+    src: url('../../public/fonts/WorkSans-MediumItalic.ttf') format('truetype');
+    font-weight: 400;
+    font-style: italic;
+}
 body {
     font-family: 'Work Sans', sans-serif;
     font-weight: 400;
 }
 
+/* MARK:Fuentes
 /* Tipos de fuentes */
 .sans-semibold {
     font-family: 'Work Sans', sans-serif;
@@ -32,28 +39,11 @@ body {
     font-weight: 600;
     font-style: italic;
 }
-
-.selected {
-    border-bottom: 2px solid white !important; 
+.sans-regular-italic {
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 400;
+    font-style: italic;
 }
-
-/* Colores de fondo */
-.bg-blanco{
-	background-color: #f1f1f1;
-}
-.bg-azul-1{
-	background-color: #8d9ac4;
-}
-.bg-azul-2{
-	background-color: #1a42a7;
-}
-.bg-azul-3{
-	background-color: #092059;
-}
-.bg-negro{
-	background-color: #272727;
-}
-
 /* Colores de texto */
 .txt-blanco{
 	color: #f1f1f1;
@@ -70,14 +60,34 @@ body {
 .txt-negro{
 	color: #272727;
 }
-
 /* Tamaños de texto */
 .txt-nav{
 	font-size: 20px;
 }
 .txt-tittle{
-	font-size: 45px;
+	font-size: 43px;
 }
 .txt-desc{
 	font-size: 15px;
+}
+
+.selected {
+    border-bottom: 2px solid white !important; 
+}
+/* MARK:Fondos
+/* Colores de fondo */
+.bg-blanco{
+	background-color: #f1f1f1;
+}
+.bg-azul-1{
+	background-color: #8d9ac4;
+}
+.bg-azul-2{
+	background-color: #1a42a7;
+}
+.bg-azul-3{
+	background-color: #092059;
+}
+.bg-negro{
+	background-color: #272727;
 }
